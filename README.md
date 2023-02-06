@@ -1,4 +1,4 @@
-# First-Udemy-Game-2D
+# First 2D Udemy Game
 This is the first game I've created in Unity, mainly for learning purposes.
 
 To move, press the A or D key and dash with spacebar. You have to dodge the vegetables falling from the ground and you have a total of 3 lives.
